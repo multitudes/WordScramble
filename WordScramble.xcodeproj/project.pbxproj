@@ -19,6 +19,7 @@
 		45C178322361AA6600429258 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 45C178312361AA6600429258 /* .travis.yml */; };
 		45C178342361C47900429258 /* ScreenFlow.gif in Resources */ = {isa = PBXBuildFile; fileRef = 45C178332361C47900429258 /* ScreenFlow.gif */; };
 		45C178382361C62000429258 /* WordScramble.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C178372361C62000429258 /* WordScramble.png */; };
+		45C1783A2361CA1700429258 /* WordScramble2.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C178392361CA1700429258 /* WordScramble2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		45C178312361AA6600429258 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; name = .travis.yml; path = WordScramble/.travis.yml; sourceTree = "<group>"; };
 		45C178332361C47900429258 /* ScreenFlow.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ScreenFlow.gif; sourceTree = "<group>"; };
 		45C178372361C62000429258 /* WordScramble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WordScramble.png; sourceTree = "<group>"; };
+		45C178392361CA1700429258 /* WordScramble2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WordScramble2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				458DEA64236072F8005BA940 /* SceneDelegate.swift */,
 				45C178372361C62000429258 /* WordScramble.png */,
 				45C178332361C47900429258 /* ScreenFlow.gif */,
+				45C178392361CA1700429258 /* WordScramble2.png */,
 				458DEA69236072F8005BA940 /* ContentView.swift */,
 				458DEA6B236072FA005BA940 /* Assets.xcassets */,
 				458DEA70236072FA005BA940 /* LaunchScreen.storyboard */,
@@ -151,6 +154,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45C1783A2361CA1700429258 /* WordScramble2.png in Resources */,
 				45C178382361C62000429258 /* WordScramble.png in Resources */,
 				45C178302361A78D00429258 /* README.md in Resources */,
 				45C178342361C47900429258 /* ScreenFlow.gif in Resources */,
