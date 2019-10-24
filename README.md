@@ -2,10 +2,9 @@
 
 # [![Build Status]()]()
 # [![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](https://github.com/yo-op/sketchcachecleaner)
-[![Version](https://img.shields.io/badge/version-1.0.5-blue.svg)]()
+# [![Version](https://img.shields.io/badge/version-1.0.5-blue.svg)]()
 
-[![Sketch Cache Cleaner on Producthunt](https://image.ibb.co/fJSxcH/product.png)](https://www.producthunt.com/posts/sketch-cache-cleaner)
-[![Sketch WordScramble]()]()
+# [![Sketch WordScramble]()]()
 
 WordScramble is an app part of the #100DaysOfSwift challenges
 
