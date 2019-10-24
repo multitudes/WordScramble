@@ -15,7 +15,8 @@ struct ContentView: View {
     @State private var errorTitle = ""
     @State private var errorMessage = ""
     @State private var showingError = false
-    
+    @State private var score = "Your score is : 0"
+    @State private var points: Int = 0
     var body: some View {
         NavigationView {
             VStack {
@@ -31,9 +32,9 @@ struct ContentView: View {
                
             }
         .navigationBarTitle(rootWord)
-        .navigationBarItems(leading: Button("New Game") {
+            .navigationBarItems(leading: Button("New Game") {
             self.startGame()
-        })
+        }, trailing: Text(score))
         .onAppear(perform: startGame)
             .alert(isPresented: $showingError) {
                 Alert(title: Text(errorTitle), message: Text(errorMessage), dismissButton: .default(Text("OK")))
@@ -57,11 +58,14 @@ struct ContentView: View {
             wordError(title: "Word not recognized", message: "You cant just make them up you know!")
             return
         }
-        
+        points += answer.count
+        score = "Your score is : \(points)"
         usedWords.insert(answer, at: 0)
         newWord = ""
     }
     func startGame() {
+        score = "Your score is : 0"
+        points = 0
         usedWords = [String]()
         newWord = ""
         if let startWordsURL = Bundle.main.url(forResource: "start", withExtension: "txt") {
