@@ -18,6 +18,7 @@
 		458DEA7C2360A109005BA940 /* WordScramble.gif in Resources */ = {isa = PBXBuildFile; fileRef = 458DEA7B2360A109005BA940 /* WordScramble.gif */; };
 		45C178302361A78D00429258 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 45C1782F2361A78D00429258 /* README.md */; };
 		45C178322361AA6600429258 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 45C178312361AA6600429258 /* .travis.yml */; };
+		45C178342361C47900429258 /* ScreenFlow.gif in Resources */ = {isa = PBXBuildFile; fileRef = 45C178332361C47900429258 /* ScreenFlow.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		458DEA7B2360A109005BA940 /* WordScramble.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = WordScramble.gif; sourceTree = "<group>"; };
 		45C1782F2361A78D00429258 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		45C178312361AA6600429258 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; name = .travis.yml; path = WordScramble/.travis.yml; sourceTree = "<group>"; };
+		45C178332361C47900429258 /* ScreenFlow.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ScreenFlow.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				45C1782F2361A78D00429258 /* README.md */,
 				458DEA62236072F8005BA940 /* AppDelegate.swift */,
 				458DEA64236072F8005BA940 /* SceneDelegate.swift */,
+				45C178332361C47900429258 /* ScreenFlow.gif */,
 				458DEA69236072F8005BA940 /* ContentView.swift */,
 				458DEA6B236072FA005BA940 /* Assets.xcassets */,
 				458DEA70236072FA005BA940 /* LaunchScreen.storyboard */,
@@ -150,6 +153,7 @@
 			files = (
 				45C178302361A78D00429258 /* README.md in Resources */,
 				458DEA7C2360A109005BA940 /* WordScramble.gif in Resources */,
+				45C178342361C47900429258 /* ScreenFlow.gif in Resources */,
 				458DEA72236072FA005BA940 /* LaunchScreen.storyboard in Resources */,
 				458DEA7A23609630005BA940 /* start.txt in Resources */,
 				458DEA6F236072FA005BA940 /* Preview Assets.xcassets in Resources */,
