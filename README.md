@@ -2,8 +2,8 @@
 
 WordScramble is an app part of the #100DaysOfSwift challenges
 
-![WordScramble](WordScramble/WordScramble.png =250x)
-
+<img src="WordScramble/WordScramble.png" width="300" />
+<img src="WordScramble/WordScramble.png" width="300" />
 
 ---
 
