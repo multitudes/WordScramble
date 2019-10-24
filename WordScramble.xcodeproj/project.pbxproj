@@ -20,6 +20,8 @@
 		45C178342361C47900429258 /* ScreenFlow.gif in Resources */ = {isa = PBXBuildFile; fileRef = 45C178332361C47900429258 /* ScreenFlow.gif */; };
 		45C178382361C62000429258 /* WordScramble.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C178372361C62000429258 /* WordScramble.png */; };
 		45C1783A2361CA1700429258 /* WordScramble2.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C178392361CA1700429258 /* WordScramble2.png */; };
+		45C178412361CC0600429258 /* WordScramble3.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C1783F2361CC0500429258 /* WordScramble3.png */; };
+		45C178422361CC0600429258 /* WordScramble4.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C178402361CC0500429258 /* WordScramble4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +40,8 @@
 		45C178332361C47900429258 /* ScreenFlow.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ScreenFlow.gif; sourceTree = "<group>"; };
 		45C178372361C62000429258 /* WordScramble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WordScramble.png; sourceTree = "<group>"; };
 		45C178392361CA1700429258 /* WordScramble2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WordScramble2.png; sourceTree = "<group>"; };
+		45C1783F2361CC0500429258 /* WordScramble3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WordScramble3.png; sourceTree = "<group>"; };
+		45C178402361CC0500429258 /* WordScramble4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WordScramble4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,8 @@
 				45C1782F2361A78D00429258 /* README.md */,
 				458DEA62236072F8005BA940 /* AppDelegate.swift */,
 				458DEA64236072F8005BA940 /* SceneDelegate.swift */,
+				45C1783F2361CC0500429258 /* WordScramble3.png */,
+				45C178402361CC0500429258 /* WordScramble4.png */,
 				45C178372361C62000429258 /* WordScramble.png */,
 				45C178332361C47900429258 /* ScreenFlow.gif */,
 				45C178392361CA1700429258 /* WordScramble2.png */,
@@ -156,6 +162,8 @@
 			files = (
 				45C1783A2361CA1700429258 /* WordScramble2.png in Resources */,
 				45C178382361C62000429258 /* WordScramble.png in Resources */,
+				45C178422361CC0600429258 /* WordScramble4.png in Resources */,
+				45C178412361CC0600429258 /* WordScramble3.png in Resources */,
 				45C178302361A78D00429258 /* README.md in Resources */,
 				45C178342361C47900429258 /* ScreenFlow.gif in Resources */,
 				458DEA72236072FA005BA940 /* LaunchScreen.storyboard in Resources */,
