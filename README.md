@@ -7,7 +7,7 @@
 [![Sketch Cache Cleaner on Producthunt](https://image.ibb.co/fJSxcH/product.png)](https://www.producthunt.com/posts/sketch-cache-cleaner)
 [![Sketch Cache Cleaner](https://image.ibb.co/mHOoea/cleaner.png)](https://www.producthunt.com/posts/sketch-cache-cleaner)
 
-Sketch Cache Cleaner is an app that deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use.
+WordScramble is an app part of the #100DaysOfSwift challenges
 
 ---
 
@@ -22,40 +22,32 @@ Sketch Cache Cleaner is an app that deletes hidden Sketch history files that can
 
 ## Warning
 
-The app idea inspired by two blog posts: [How Sketch took over 200GB of our MacBooks](https://medium.com/@thomasdegry/how-sketch-took-over-200gb-of-our-macbooks-cb7dd10c8163) & [How to recover 50 GB or even more by deleting Sketch caches files](https://medium.com/sketch-app-sources/how-to-recover-50-go-or-even-more-by-deleting-sketch-caches-files-e5829dba20e1)
+The app idea inspired by : [100 Days of SwiftUI Day 29](https://www.hackingwithswift.com/100/swiftui/29)
 
-Please, read them in case you want to know how it works.
-
-If your **workflow** relies on **automatic versioning** by macOS
-(Time Machine etc.) - **DO NOT USE THIS APP!**
-
-The app will remove all files in folder: /.DocumentRevisions-V100/
+This app will include over 10,000 eight-letter words that will be randomly selected for the player to work with.  You will get points for making up words.
 
 ---
 
 ### System Requirements
 
-- macOS 10.11+
-- Xcode 10.0+
-- Swift 4.2+
+- macOS 10.15+
+- Xcode 11.0+
+- Swift 5.1+
 
 ---
 
-### Authors
+### Author
 
-Idea & design: [Yuriy Oparenko](http://oparenko.com/)
-
-Development: [Sasha Prokhorenko](https://twitter.com/minikin)
+Development: [Laurent Brusa](https://twitter.com/wrmultitudes)
 
 ---
 
 ### Tips
 
 - Use this app wisely.
-- Reboot your Mac after app use.
 
 ---
 
 ### License
 
-Sketch Cache Cleaner is distributed under the [MIT license](https://github.com/yo-op/sketchcachecleaner/blob/master/LICENSE.md).
+WordScramble is distributed under the [MIT license]().
