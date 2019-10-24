@@ -3,7 +3,7 @@
 WordScramble is an app part of the #100DaysOfSwift challenges
 
 <img src="WordScramble/WordScramble.png" width="300" />
-<img src="WordScramble/WordScramble.png" width="300" />
+
 
 ---
 
