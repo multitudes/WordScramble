@@ -15,10 +15,10 @@
 		458DEA6F236072FA005BA940 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 458DEA6E236072FA005BA940 /* Preview Assets.xcassets */; };
 		458DEA72236072FA005BA940 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 458DEA70236072FA005BA940 /* LaunchScreen.storyboard */; };
 		458DEA7A23609630005BA940 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 458DEA7923609630005BA940 /* start.txt */; };
-		458DEA7C2360A109005BA940 /* WordScramble.gif in Resources */ = {isa = PBXBuildFile; fileRef = 458DEA7B2360A109005BA940 /* WordScramble.gif */; };
 		45C178302361A78D00429258 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 45C1782F2361A78D00429258 /* README.md */; };
 		45C178322361AA6600429258 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 45C178312361AA6600429258 /* .travis.yml */; };
 		45C178342361C47900429258 /* ScreenFlow.gif in Resources */ = {isa = PBXBuildFile; fileRef = 45C178332361C47900429258 /* ScreenFlow.gif */; };
+		45C178382361C62000429258 /* WordScramble.png in Resources */ = {isa = PBXBuildFile; fileRef = 45C178372361C62000429258 /* WordScramble.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,10 +32,10 @@
 		458DEA71236072FA005BA940 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		458DEA73236072FA005BA940 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		458DEA7923609630005BA940 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
-		458DEA7B2360A109005BA940 /* WordScramble.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = WordScramble.gif; sourceTree = "<group>"; };
 		45C1782F2361A78D00429258 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		45C178312361AA6600429258 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; name = .travis.yml; path = WordScramble/.travis.yml; sourceTree = "<group>"; };
 		45C178332361C47900429258 /* ScreenFlow.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ScreenFlow.gif; sourceTree = "<group>"; };
+		45C178372361C62000429258 /* WordScramble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = WordScramble.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,11 +72,11 @@
 				45C1782F2361A78D00429258 /* README.md */,
 				458DEA62236072F8005BA940 /* AppDelegate.swift */,
 				458DEA64236072F8005BA940 /* SceneDelegate.swift */,
+				45C178372361C62000429258 /* WordScramble.png */,
 				45C178332361C47900429258 /* ScreenFlow.gif */,
 				458DEA69236072F8005BA940 /* ContentView.swift */,
 				458DEA6B236072FA005BA940 /* Assets.xcassets */,
 				458DEA70236072FA005BA940 /* LaunchScreen.storyboard */,
-				458DEA7B2360A109005BA940 /* WordScramble.gif */,
 				458DEA7923609630005BA940 /* start.txt */,
 				458DEA73236072FA005BA940 /* Info.plist */,
 				458DEA66236072F8005BA940 /* WordScramble.xcdatamodeld */,
@@ -151,8 +151,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45C178382361C62000429258 /* WordScramble.png in Resources */,
 				45C178302361A78D00429258 /* README.md in Resources */,
-				458DEA7C2360A109005BA940 /* WordScramble.gif in Resources */,
 				45C178342361C47900429258 /* ScreenFlow.gif in Resources */,
 				458DEA72236072FA005BA940 /* LaunchScreen.storyboard in Resources */,
 				458DEA7A23609630005BA940 /* start.txt in Resources */,
