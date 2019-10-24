@@ -3,3 +3,6 @@ osx_image: xcode11.0
 branches:
   only:
     - master
+xcode_project: WordScramble.xcodeproj # path to your xcodeproj folder
+xcode_scheme: WordScramble
+xcode_destination: platform=iOS Simulator,OS=13,name=iPad Pro (9.7-inch)
