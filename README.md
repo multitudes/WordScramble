@@ -2,7 +2,9 @@
 
 WordScramble is an app part of the #100DaysOfSwift challenges
 
-![WordScramble](WordScramble/ScreenFlow.gif)
+<img src="WordScramble/WordScramble.png" width="300" />
+
+
 ---
 
 1. [Warning](#warning)
